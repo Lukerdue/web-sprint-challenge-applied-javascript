@@ -28,13 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+The dom, short for Document Object Model, is a way we can manipulate what people are seeing on a webpage so we can begin to understand dynamic web design.
+
 2. What is an event?
+
+an event is anything that happens in and arond the DOM, mostly user events like clicking, scrolling, or pressing keys;
 
 3. What is an event listener?
 
+and event listener is a way we can attach functionality to elements on the DOM that will listen for events and execute the code we give it.
+
 4. Why would we convert a NodeList into an Array?
 
+nodelists can't be used by some code like an array, so if you wanted to map over or filter a nodelist you must simply convert it to an array.
+
 5. What is a component?
+
+A component is a section of reusable code that creates elements systematically and can iterate over data to create elements dynamically.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
